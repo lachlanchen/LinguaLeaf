@@ -25,6 +25,28 @@
       "status": "ok"
     },
     {
+      "book_id": "a-game-of-thrones",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/a-game-of-thrones/en-main-jp-zh/color/A Game of Thrones（日文・中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/a-game-of-thrones/en-main-jp-zh/color/A Game of Thrones（日文・中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/a-game-of-thrones.png",
+      "export_mib": "28.2",
+      "status": "ok"
+    },
+    {
+      "book_id": "a-game-of-thrones",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/a-game-of-thrones/en-main-jp-zh/blackwhite/A Game of Thrones（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/a-game-of-thrones/en-main-jp-zh/blackwhite/A Game of Thrones（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/a-game-of-thrones.png",
+      "export_mib": "22.8",
+      "status": "ok"
+    },
+    {
       "book_id": "bhagavad-gita",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
