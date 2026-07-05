@@ -157,6 +157,28 @@
       "status": "ok"
     },
     {
+      "book_id": "harry-potter-1",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/harry-potter-1/en-main-jp-zh/color/Harry Potter and the Sorcerer's Stone（日文・中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/harry-potter-1/en-main-jp-zh/color/Harry Potter and the Sorcerer's Stone（日文・中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/harry-potter-1.png",
+      "export_mib": "8.3",
+      "status": "ok"
+    },
+    {
+      "book_id": "harry-potter-1",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/harry-potter-1/en-main-jp-zh/blackwhite/Harry Potter and the Sorcerer's Stone（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/harry-potter-1/en-main-jp-zh/blackwhite/Harry Potter and the Sorcerer's Stone（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/harry-potter-1.png",
+      "export_mib": "6.9",
+      "status": "ok"
+    },
+    {
       "book_id": "i-am-a-cat",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
