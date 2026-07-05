@@ -1323,6 +1323,28 @@
       "status": "ok"
     },
     {
+      "book_id": "shishuo-xinyu",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shishuo-xinyu/wenyan-main-quadrilingual/color/世說新語（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shishuo-xinyu/wenyan-main-quadrilingual/color/世說新語（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/shishuo-xinyu.png",
+      "export_mib": "10.3",
+      "status": "ok"
+    },
+    {
+      "book_id": "shishuo-xinyu",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shishuo-xinyu/wenyan-main-quadrilingual/blackwhite/世說新語（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shishuo-xinyu/wenyan-main-quadrilingual/blackwhite/世說新語（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/shishuo-xinyu.png",
+      "export_mib": "9.4",
+      "status": "ok"
+    },
+    {
       "book_id": "shui-jing-zhu",
       "family": "wenyan-en-jp-zh",
       "edition": "wenyan-main-quadrilingual",
@@ -1455,6 +1477,28 @@
       "status": "ok"
     },
     {
+      "book_id": "zhanguoce",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zhanguoce/wenyan-main-quadrilingual/color/戰國策（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zhanguoce/wenyan-main-quadrilingual/color/戰國策（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/zhanguoce.png",
+      "export_mib": "21.7",
+      "status": "ok"
+    },
+    {
+      "book_id": "zhanguoce",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zhanguoce/wenyan-main-quadrilingual/blackwhite/戰國策（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zhanguoce/wenyan-main-quadrilingual/blackwhite/戰國策（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/zhanguoce.png",
+      "export_mib": "17.8",
+      "status": "ok"
+    },
+    {
       "book_id": "zhuangzi",
       "family": "wenyan-en-jp-zh",
       "edition": "wenyan-main-quadrilingual",
@@ -1474,6 +1518,72 @@
       "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zhuangzi/wenyan-main-quadrilingual/blackwhite/莊子（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
       "preview": "assets/max-language-previews/zhuangzi.png",
       "export_mib": "9.1",
+      "status": "ok"
+    },
+    {
+      "book_id": "zizhi-tongjian-part-01",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-01/wenyan-main-quadrilingual/blackwhite/資治通鑑第一部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-01/wenyan-main-quadrilingual/blackwhite/資治通鑑第一部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/zizhi-tongjian-part-01.png",
+      "export_mib": "86.7",
+      "status": "ok"
+    },
+    {
+      "book_id": "zizhi-tongjian-part-02",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-02/wenyan-main-quadrilingual/blackwhite/資治通鑑第二部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-02/wenyan-main-quadrilingual/blackwhite/資治通鑑第二部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/zizhi-tongjian-part-02.png",
+      "export_mib": "87.3",
+      "status": "ok"
+    },
+    {
+      "book_id": "zizhi-tongjian-part-03",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-03/wenyan-main-quadrilingual/blackwhite/資治通鑑第三部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-03/wenyan-main-quadrilingual/blackwhite/資治通鑑第三部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/zizhi-tongjian-part-03.png",
+      "export_mib": "88.4",
+      "status": "ok"
+    },
+    {
+      "book_id": "zizhi-tongjian-part-04",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-04/wenyan-main-quadrilingual/blackwhite/資治通鑑第四部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-04/wenyan-main-quadrilingual/blackwhite/資治通鑑第四部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/zizhi-tongjian-part-04.png",
+      "export_mib": "86.7",
+      "status": "ok"
+    },
+    {
+      "book_id": "zizhi-tongjian-part-05",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-05/wenyan-main-quadrilingual/blackwhite/資治通鑑第五部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-05/wenyan-main-quadrilingual/blackwhite/資治通鑑第五部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/zizhi-tongjian-part-05.png",
+      "export_mib": "86.1",
+      "status": "ok"
+    },
+    {
+      "book_id": "zizhi-tongjian-part-06",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-06/wenyan-main-quadrilingual/blackwhite/資治通鑑第六部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zizhi-tongjian-part-06/wenyan-main-quadrilingual/blackwhite/資治通鑑第六部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/zizhi-tongjian-part-06.png",
+      "export_mib": "82.3",
       "status": "ok"
     },
     {
