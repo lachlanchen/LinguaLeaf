@@ -2,7 +2,7 @@
 
 # LinguaLeaf
 
-[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://lazying.art)
+[![LazyingArt banner — apps and four buddies](https://github.com/lachlanchen/LazyingArtWebsite/raw/main/media/brand/lazyingart-intro.gif)](https://lazying.art)
 
 LinguaLeaf is the dedicated PDF artifact shelf for [PocketPolyglot](https://github.com/lachlanchen/PocketPolyglot). It stores compressed final multilingual pocket-book PDFs, first-page previews, and the export manifest, while PocketPolyglot keeps the source text, JSON, TeX, scripts, and generation workflow.
 
